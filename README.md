@@ -1,6 +1,7 @@
 ## README
 
-# Abstract
+#
+ Abstract
 
 This project is a digital video codec system. By using a variety of different algorithms, the gains and losses of various trade-offs (various important parameters) are analyzed. Such as throughput, power consumption, cost, programmability, time to market, and application-specific aspects such as quality, target bit rate, latency, and error resilience.
 
@@ -20,9 +21,10 @@ These images are visual examples of video encoding analysis, demonstrating vario
   <img src="reconstructed_y_only_encoder.gif" alt="reconstructed_y_only_encoder GIF" width="45%">
 </p>
 
-<p align="center">
-<div>Figure 2: Six Frames of Reconstructed Y Component</div>
-</p>
+<div style="text-align: center;">
+ Figure 2: Six Frames of Reconstructed Y Component
+</div>
+
 After decoding, it will generate a reconsturcted YUV file.  This figure shows 6 frames of y component from YUV file .
 
 
