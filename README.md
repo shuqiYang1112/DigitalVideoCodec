@@ -18,8 +18,7 @@ These images are visual examples of video encoding analysis, demonstrating vario
 
 
 <div style="text-align: center;">
-    <img src="path_to_image_or_video.gif" alt="Reconstructed Y Component" style="width: 45%;">
-    <figcaption>Figure 2: Six Frames of Reconstructed Y Component</figcaption>
+    <img src="reconstructed_y_only_encoder.gif" alt="Reconstructed Y Component" style="width: 45%;">
 </div>
 
 
