@@ -21,7 +21,7 @@ These images are visual examples of video encoding analysis, demonstrating vario
 </p>
 
 <p align="center">
-<figcaption>Figure 2: Six Frames of Reconstructed Y Component</figcaption>
+<div>Figure 2: Six Frames of Reconstructed Y Component</div>
 </p>
 After decoding, it will generate a reconsturcted YUV file.  This figure shows 6 frames of y component from YUV file .
 
