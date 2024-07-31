@@ -18,7 +18,7 @@ These images are visual examples of video encoding analysis, demonstrating vario
 
 <div align="center">
   <video width="45%" controls>
-    <source src="reconstructed_y_only_encoder.mp4" type="video/mp4">
+    <source src="reconstructed_y_only_encoder.jpg" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <figcaption>Figure 2: Six Frames of Reconstructed Y Component</figcaption>
