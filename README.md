@@ -8,10 +8,10 @@ This project is a digital video codec system. By using a variety of different al
 
 <p align="center">
   <img src="figure11.jpg" alt="Image 1" width="30%">
-  <figcaption>Figure 1.1</figcaption>
   <img src="figure12.jpg" alt="Image 2" width="30%">
-  <figcaption>Figure 1.2</figcaption>
   <img src="figure13.jpg" alt="Image 3" width="30%">
+  <figcaption>Figure 1.1</figcaption>
+  <figcaption>Figure 1.2</figcaption>
   <figcaption>Figure 1.3</figcaption>
 </p>
 
