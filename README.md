@@ -18,10 +18,11 @@ These images are visual examples of video encoding analysis, demonstrating vario
 
 <p align="center">
   <img src="reconstructed_y_only_encoder.gif" alt="reconstructed_y_only_encoder GIF" width="45%">
-  <figcaption>Figure 2: Six Frames of Reconstructed Y Component</figcaption>
 </p>
 
-
+<p align="center">
+<figcaption>Figure 2: Six Frames of Reconstructed Y Component</figcaption>
+</p>
 After decoding, it will generate a reconsturcted YUV file.  This figure shows 6 frames of y component from YUV file .
 
 
