@@ -16,10 +16,11 @@ This project is a digital video codec system. By using a variety of different al
 
 These images are visual examples of video encoding analysis, demonstrating various encoding features and decisions. The left image shows the selection of a P-frame or I-frame with variable block size decisions overlaid. The middle image depicts the support for multiple reference frames, with each block marked by a color or other indicator showing the index of the reference frame used. The right image displays a map of motion vectors (MVs) overlaid on an arbitrary P-frame, using innovative representations to visualize the direction and magnitude of the motion vectors. These images help to deeply understand and analyze key technologies in the video encoding process.
 
-<div align="center">
-  <img src="reconstructed_y_only_encoder.gif" alt="Animated GIF" width="45%">
+<p align="center">
+  <img src="reconstructed_y_only_encoder.gif" alt="reconstructed_y_only_encoder GIF" width="45%">
   <figcaption>Figure 2: Six Frames of Reconstructed Y Component</figcaption>
-</div>
+</p>
+
 
 After decoding, it will generate a reconsturcted YUV file.  This figure shows 6 frames of y component from YUV file .
 
